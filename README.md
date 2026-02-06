@@ -6,7 +6,9 @@ A romantic and interactive way to ask your special someone to be your Valentine!
 
 ## Demo 🎮
 
-You can see the live demo of the game [here]👉 Click here to open Chikudi 💖
+You can see the live demo of the game 
+👉 [Click here to open Chikudi 💖](https://valentines-proposal-visibait.vercel.app/)
+
 
 
 ## Features ✨
